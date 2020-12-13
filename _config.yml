@@ -1,3 +1,5 @@
   name: Ricky Lai
 	markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
