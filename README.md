@@ -11,7 +11,7 @@ Bootstrap 3.2.0, HTML5 & CSS3
 Responsive, Bootstrap Mobile First Web Template
 #
 Credits
-======= 
+=======  
 Author URI: http://webthemez.com/
 
 Framework  http://getbootstrap.com
