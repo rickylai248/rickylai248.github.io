@@ -7,7 +7,7 @@ Clean, modern and responsive professional looking resume / personal portfolio te
 
  
 Bootstrap 3.2.0, HTML5 & CSS3
-
+ 
 Responsive, Bootstrap Mobile First Web Template
 #
 Credits
